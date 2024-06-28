@@ -10,7 +10,7 @@ Sistema de Registro 2
 
 
 
-- Excel
+-``` Excel```
 
  ``` function agregarFormatoGuiones() {
   var hoja = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
